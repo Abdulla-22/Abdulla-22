@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 Currently working on diverse coding projects to enhance my skills and expand my knowledge.
 - 🌱 Actively learning and mastering various programming languages and frameworks.
 - 👯 Eager to collaborate on exciting projects that involve innovative technologies and creative problem-solving.
