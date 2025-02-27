@@ -48,7 +48,7 @@
 ### 🌐 Connect with Me  
 
 <div align="left">
-  <a href="https://linkedin.com/in/Abdulla-Yusuf" target="_blank">
+  <a href="https://linkedin.com/in/abdulla-yusuf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/Abdulla-22" target="_blank">
