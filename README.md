@@ -6,7 +6,7 @@
 
 
 
-<h2 align="left">Hi 👋! My name is YOUR_NAME and I'm a Full-Stack Developer & Electrical Engineer from Bahrain.</h2>
+<h2 align="left">Hi 👋! My name is Abdulla and I'm a Full-Stack Developer & Electrical Engineer from Bahrain.</h2>
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on: **Real-time applications & PLC programming**  
