@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" height="150" src="https://lottie.host/embed/6f58d0e1-47be-40c8-b2c7-3fdb796d9e2b/0mMQaHsGmy.lottie" />
+<img align="right" height="150" src="https://github.com/Abdulla-22/Abdulla-22/blob/main/assets/Animation%20-%201740653882107.gif?raw=true" />
 
 ### 🛠 Tech Stack  
 
