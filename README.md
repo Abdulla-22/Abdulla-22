@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" height="150" src="https://github.com/Abdulla-22/Abdulla-22/blob/main/assets/Animation%20-%201740653882107.gif?raw=true" /> <br>
+<img align="right" src="https://github.com/Abdulla-22/Abdulla-22/blob/main/assets/Animation%20-%201740653882107.gif?raw=true" /> <br>
 
 ### 🛠 Tech Stack  
 
@@ -43,6 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
 </div>
 <br>
+
 ---
 
 ### 🌐 Connect with Me  
