@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **Real-time applications & PLC programming**  
 - 🌱 I’m learning: **Go, WebSockets, AI, and Ladder Logic**  
-- 🎯 Interests: **Full-stack development, Embedded Systems, AI & Automation**  
+- 🎯 Interests: **Full-stack development, Embedded Systems, AI & Automation, electrical**  
 - ⚡ Fun Fact: **I love working on projects that merge software and hardware!**
 
 ---
