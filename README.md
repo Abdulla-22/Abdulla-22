@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" height="150" src="https://github.com/Abdulla-22/Abdulla-22/blob/main/assets/Animation%20-%201740653882107.gif?raw=true" />
+<img align="right" height="150" src="https://github.com/Abdulla-22/Abdulla-22/blob/main/assets/Animation%20-%201740653882107.gif?raw=true" /> <br>
 
 ### 🛠 Tech Stack  
 
