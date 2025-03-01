@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Abdulla and I'm a Full-Stack Developer & Electrical Engineer from Bahrain.</h2>
 
 ### 🚀 About Me  
+
 - 🔭 I’m currently working on: **Real-time applications & PLC programming**  
 - 🌱 I’m learning: **Go, WebSockets, AI, and Ladder Logic**  
 - 🎯 Interests: **Full-stack development, Embedded Systems, AI & Automation**  
@@ -15,9 +16,16 @@
 
 ---
 
-<img align="right" src="https://github.com/Abdulla-22/Abdulla-22/blob/main/assets/Animation%20-%201740653882107.gif?raw=true" /> <br>
 
 ### 🛠 Tech Stack  
+
+<div align="right">
+  <img align="right" src="https://github.com/Abdulla-22/Abdulla-22/blob/main/assets/Animation%20-%201740653882107.gif?raw=true" 
+        width="200" alt="GIF Animation">
+</div>
+
+<br>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
@@ -70,5 +78,5 @@
 ---
 
 ### 📊 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulla-22&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulla-22&label=PROFILE+VIEWS&style=flat-square&color=blue)
